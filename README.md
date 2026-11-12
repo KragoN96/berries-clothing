@@ -1,4 +1,4 @@
-# CyberGhost Clothing
+# Berries Clothing
 
 Training project built with [Next.js](https://nextjs.org) (App Router), React 19 and TypeScript.
 
